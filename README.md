@@ -2,6 +2,7 @@
 
 Project business to make investor easily come business man
 
+<img src="https://github.com/swri/bisnis-lab/blob/main/assets/photo1.jpg" width="350" alt="accessibility text">
 ![alt text](https://github.com/swri/bisnis-lab/blob/main/assets/photo1.jpg?raw=true)
 ![alt text](https://github.com/swri/bisnis-lab/blob/main/assets/photo2.jpg?raw=true)
 ![alt text](https://github.com/swri/bisnis-lab/blob/main/assets/photo3.png?raw=true)
