@@ -4,9 +4,9 @@ Project business to make investor easily come business man
 
 ![alt text](https://github.com/swri/bisnis-lab/blob/main/assets/photo1.jpg?raw=true)
 ![alt text](https://github.com/swri/bisnis-lab/blob/main/assets/photo2.jpg?raw=true)
-![alt text](https://github.com/swri/bisnis-lab/blob/main/assets/photo3.jpg?raw=true)
-![alt text](https://github.com/swri/bisnis-lab/blob/main/assets/photo4.jpg?raw=true)
-![alt text](https://github.com/swri/bisnis-lab/blob/main/assets/photo.jpg?raw=true)
+![alt text](https://github.com/swri/bisnis-lab/blob/main/assets/photo3.png?raw=true)
+![alt text](https://github.com/swri/bisnis-lab/blob/main/assets/photo4.png?raw=true)
+![alt text](https://github.com/swri/bisnis-lab/blob/main/assets/photo.png?raw=true)
 
 
 ## Getting Started
