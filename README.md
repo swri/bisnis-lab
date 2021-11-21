@@ -2,11 +2,11 @@
 
 Project business to make investor easily come business man
 
-<img src="https://github.com/swri/bisnis-lab/blob/main/assets/photo1.jpg" width="350" alt="accessibility text">
-<img src="https://github.com/swri/bisnis-lab/blob/main/assets/photo2.jpg" width="350" alt="accessibility text">
-<img src="https://github.com/swri/bisnis-lab/blob/main/assets/photo3.png" width="350" alt="accessibility text">
-<img src="https://github.com/swri/bisnis-lab/blob/main/assets/photo4.png" width="350" alt="accessibility text">
+<img src="https://github.com/swri/bisnis-lab/blob/main/assets/photo1.jpg" width="350" alt="accessibility text"><img src="https://github.com/swri/bisnis-lab/blob/main/assets/photo2.jpg" width="350" alt="accessibility text"><img src="https://github.com/swri/bisnis-lab/blob/main/assets/photo3.png" width="350" alt="accessibility text"><img src="https://github.com/swri/bisnis-lab/blob/main/assets/photo4.png" width="350" alt="accessibility text">
 <img src="https://github.com/swri/bisnis-lab/blob/main/assets/photo.png" width="350" alt="accessibility text">
+
+
+
 
 
 ## Getting Started
