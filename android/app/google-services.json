@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525584835164",
+    "project_id": "bisnis-lab",
+    "storage_bucket": "bisnis-lab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525584835164:android:ec4dfd349aaf77db24fc99",
+        "android_client_info": {
+          "package_name": "com.uinjkt.bisnis_lab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525584835164-o786m0kqao5lpnk0k344321f0uasd4gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpNDcAzUV-HNvzOR3mhnAe58w8X7V2BE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525584835164-o786m0kqao5lpnk0k344321f0uasd4gc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
